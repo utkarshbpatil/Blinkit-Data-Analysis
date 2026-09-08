@@ -6,6 +6,15 @@ An end-to-end data analysis project using **Python, MySQL, and Power BI** to cle
 
 ![Blinkit Dashboard](Blinkit_Data.png)
 
+### Outlet Size & Location
+![Outlet Size and Location](outlet_size_and_location.png)
+
+### Outlet Type Performance
+![Outlet Type Summary](outlet_type_summary.png)
+
+### Outlet Establishment Trend
+![Outlet Establishment Trend](outlet_establishment_trend.png)
+
 ## Project Overview
 
 The goal of this project is to analyze grocery sales data and identify useful business insights related to:
